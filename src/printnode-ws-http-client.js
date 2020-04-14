@@ -1,4 +1,4 @@
-var PrintNode = (function () {
+module.exports = (function () {
     "use strict";
 
     var VERSION = '0.2.0';
